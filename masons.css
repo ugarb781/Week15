@@ -313,7 +313,7 @@ display: none;
     text-transform: uppercase;
     font-weight: bold;
     
-  .links{
+  .links ul{
   display: none;
   }
 
