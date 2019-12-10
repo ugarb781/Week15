@@ -313,12 +313,9 @@ display: none;
     text-transform: uppercase;
     font-weight: bold;
     
-  .links ul{
+  .links{
   display: none;
   }
-   .links a{
-     display: none;
-    }
 
    .exit{
     width: 35px;
