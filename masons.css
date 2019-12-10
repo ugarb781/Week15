@@ -312,6 +312,8 @@ display: none;
     font-style: normal;
     text-transform: uppercase;
     font-weight: bold;
+    
+  .links{
   display: none;
   }
 
