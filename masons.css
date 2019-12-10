@@ -316,6 +316,9 @@ display: none;
   .links ul{
   display: none;
   }
+   .links a{
+     display: none;
+    }
 
    .exit{
     width: 35px;
