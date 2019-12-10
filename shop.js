@@ -62,8 +62,8 @@ function changeBackClothes(){
   if (document.getElementById("hoodie").src !== "Masons_Project/GRAPHICS/Men's/R_Zucc.jpg"){
     document.getElementById("hoodie").src ="Masons_Project/GRAPHICS/Men's/R_Zucc.jpg";
   }
-  if (document.getElementById("sweater").src !== "Masons_Project/GRAPHICS/Men's/O_Snake.jpg"){
-    document.getElementById("sweater").src ="Masons_Project/GRAPHICS/Men's/O_Snake.jpg";
+  if (document.getElementById("sweater").src !== "Masons_Project/GRAPHICS/Men's/Or_Snake.jpg"){
+    document.getElementById("sweater").src ="Masons_Project/GRAPHICS/Men's/Or_Snake.jpg";
   }
   if (document.getElementById("buckethat").src !=="Masons_Project/GRAPHICS/Men's/B_BucketHat.jpg"){
     document.getElementById("buckethat").src ="Masons_Project/GRAPHICS/Men's/B_BucketHat.jpg";
@@ -129,7 +129,7 @@ function whiteHat(){
 }
 
 function orangeSweater(){
-  document.getElementById("sweater").src ="Masons_Project/GRAPHICS/Men's/O_Snake.jpg";
+  document.getElementById("sweater").src ="Masons_Project/GRAPHICS/Men's/Or_Snake.jpg";
 }
 
 function blueSweater(){
