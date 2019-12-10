@@ -72,7 +72,6 @@ font-weight: 600;
 font-style: normal;
     text-transform: uppercase;
     font-weight: bold;
-  display: block;
 
 
 }
@@ -313,7 +312,7 @@ display: none;
     text-transform: uppercase;
     font-weight: bold;
     
-  .links{
+  .links li{
   display: none;
   }
 
